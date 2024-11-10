@@ -1,0 +1,6 @@
+x = 0x1234
+print(x)
+b= 0xa1
+print(b)
+d = 0x1b3
+print(d)
